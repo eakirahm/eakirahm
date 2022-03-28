@@ -1,6 +1,8 @@
 ## Olá, me chamo Eduardo! 
 ### Bem vindo ao meu perfil GitHub 👋
 
+![Snake animation](https://github.com/eakirahm/eakirahm/blob/output/github-contribution-grid-snake.svg)
+
 ### Sobre mim
 
 - :mortar_board: Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela FIAP (2022 - 2023)
