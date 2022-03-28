@@ -5,8 +5,8 @@
 
 ### Sobre mim
 
-- :mortar_board: Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela FIAP (2022 - 2023)
-- 🌱 Atualmente estou aprendendo Java e seus Frameworks (Spring e Hibernate), Python e SQL
+- :mortar_board: Atualmente estudando Análise e Desenvolvimento de Sistemas pela FIAP (2022 - 2023)
+- 🌱 Atualmente aprendendo Java e seus Frameworks (Spring e Hibernate), Python e SQL
 - :page_facing_up: Você pode checar o meu [currículo](https://drive.google.com/file/d/1sj6iY-ngLy6HxKnkaILIZui6h92OHXUl/view?usp=sharing) para mais detalhes.
 
 ### Ferramentas e Tecnologias
