@@ -6,12 +6,18 @@
 ### Sobre mim
 
 - :mortar_board: Geólogo formado pela UNESP e neste momento cursando Análise e Desenvolvimento de Sistemas pela FIAP (2022 - 2023)
-- 🌱 Atualmente aprendendo Java e seus Frameworks (Spring e Hibernate), Python e SQL
-- :page_facing_up: Você pode checar o meu [currículo](https://drive.google.com/file/d/1vngYRCHuQ9YFHcY4jQrbtYcRdVkZ4cs5/view?usp=sharing) para mais detalhes.
+- 🌱 Atualmente aprendendo as linguagens/ferramentas para me tornar um cientista de dados, como Python e suas bibliotecas (Pandas, Numpy, Matplotlib, Seaborn, scikit-learn), SQL/NoSQL (MySQL, PostgreSQL e MongoDB), Power BI e Docker.
+- :page_facing_up: Você pode checar o meu [currículo](https://drive.google.com/file/d/1nJA47R2qG4urQUgem87PyU09fKhGGJLO/view?usp=sharing) para mais detalhes.
 
 ### Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 
 ### Contatos:
 
